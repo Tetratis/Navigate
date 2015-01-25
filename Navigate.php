@@ -16,10 +16,10 @@
 			}else{
 				echo '<center><b>'.(round($cool)).'</b></center>';
 			}
+<<<<<<< HEAD
+=======
 
-
-
-
+>>>>>>> master
 		?>
 		<form action="getfile.php" method="post"><br>
 		<p id= "choose-file">Upload file:</p><input type="file" name="uploadFile">
