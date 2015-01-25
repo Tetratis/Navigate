@@ -1,8 +1,9 @@
 <html>
 	<head>
-	<title>Navigate</title>
-	<style>
-	</style>
+		<title>Navigate</title>
+		<style>
+			
+		</style>
 	</head>
 	<body>
 		<?php
@@ -15,6 +16,14 @@
 			}else{
 				echo '<center><b>'.(round($cool)).'</b></center>';
 			}
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 		?>
+		<form action="getfile.php" method="post"><br>
+		<p id= "choose-file">Upload file:</p><input type="file" name="uploadFile">
+		<input type="submit" value="Upload File">
+		</form>
 	</body>
 </html>
