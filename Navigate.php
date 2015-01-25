@@ -15,7 +15,6 @@
 			}else{
 				echo '<center><b>'.(round($cool)).'</b></center>';
 			}
-			echo '<center>Ok</center>';
 		?>
 	</body>
 </html>
